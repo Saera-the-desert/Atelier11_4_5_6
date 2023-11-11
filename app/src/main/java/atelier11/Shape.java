@@ -3,8 +3,6 @@
  */
 package atelier11;
 
-import com.apple.laf.AquaHighlighter.AquaHighlightPainter;
-
 public class Shape{
    protected String isColor;
    protected boolean isFilled;
